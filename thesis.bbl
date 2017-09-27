@@ -1,15 +1,3 @@
-\begin{thebibliography}{1}
-
-\bibitem{gallager}
-R.G. Gallager.
-\newblock Low-density parity-check codes.
-\newblock {\em Information Theory, IRE Transactions on}, Vol.~8, No.~1, pp.
-  21--28, 1962.
-
-\bibitem{mitzenmacher}
-Michael Mitzenmacher and Eli Upfal.
-\newblock {\em Probability and computing: Randomized algorithms and
-  probabilistic analysis}.
-\newblock Cambridge University Press, 2005.
+\begin{thebibliography}{}
 
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015/Debian) (preloaded format=platex 2017.9.25)  25 SEP 2017 15:06
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015/Debian) (preloaded format=platex 2017.9.25)  26 SEP 2017 14:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -467,20 +467,7 @@ File: dvipsnam.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
 \c@currprfctr=\count128
 \c@endprfctr=\count129
 \c@prf=\count130
-) (./thesis.aux
-
-LaTeX Warning: Label `fig:青い丸' multiply defined.
-
-
-LaTeX Warning: Label `table:買うもの' multiply defined.
-
-
-LaTeX Warning: Label `eq:Einstein' multiply defined.
-
-
-LaTeX Warning: Label `eq:IP' multiply defined.
-
-)
+) (./thesis.aux)
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -503,7 +490,8 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 14.
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 14.
@@ -592,30 +580,31 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 23.90964pt on input line 33.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 23.63593pt on input line 33.
- (./thesis.toc)
+ (./thesis.toc
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 58.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 58.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 58.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 58.
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10> not available
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 58.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.0pt on input line 58.
+
+[3])
 \tf@toc=\write4
 \openout4 = `thesis.toc'.
 
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 36.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 36.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 36.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 36.
-LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 36.
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.0pt on input line 36.
-
-[3] [4
-
-] (./thesis.lof)
+ [4] (./thesis.lof)
 \tf@lof=\write5
 \openout5 = `thesis.lof'.
 
- [5] [6
+ [5
+
+] [6
 
 ] (./thesis.lot)
 \tf@lot=\write6
@@ -643,90 +632,101 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 13.83836pt on input line 3.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 13.67995pt on input line 3.
-File: figure/blue-circle.pdf Graphic file (type pdf)
-<figure/blue-circle.pdf>
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 10.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 10.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 9.0pt on input line 10.
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 34.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.0pt on input line 34.
- [1
+) (./parts/chapter2.tex [1
 
-]
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 84.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 5.0pt on input line 84.
- [2]
-Package hyperref Info: bookmark level for unknown definition defaults to 0 on i
-nput line 113.
-Package hyperref Info: bookmark level for unknown lemma defaults to 0 on input 
-line 117.
-Package hyperref Info: bookmark level for unknown theorem defaults to 0 on inpu
-t line 121.
-Package hyperref Info: bookmark level for unknown prf defaults to 0 on input li
-ne 129.
-) (./parts/chapter2.tex [3] [4
+] [2
 
 ]
 第2章
-File: figure/blue-circle.pdf Graphic file (type pdf)
-<figure/blue-circle.pdf> [5] [6]) (./parts/appendix1.tex [7] [8
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 7.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 7.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 7.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 7.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 7.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 7.
+) (./parts/chapter3.tex [3] [4
 
 ]
+第3章
+) (./parts/chapter4.tex [5]
+Overfull \vbox (102.9pt too high) has occurred while \output is active []
+
+ [6]
+第4章
+) (./parts/chapter5.tex [7
+
+] [8
+
+]
+第5章
+) (./parts/chapter6.tex [9]
+Overfull \vbox (134.50127pt too high) has occurred while \output is active []
+
+
+[10]
+第6章
+) (./parts/appendix1.tex [11
+
+]
+Overfull \vbox (109.50127pt too high) has occurred while \output is active []
+
+
+[12]
 付録A
-) (./parts/appendix2.tex [9] [10
-
-]
-付録B
-) [11] [12
-
-] (./parts/backmatter.tex (./thesis.bbl [13
+) (./parts/appendix2.tex [13
 
 ] [14
 
 ]
-LaTeX Font Info:    Font shape `JT1/gt/m/it' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 6.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 6.
-LaTeX Font Info:    Font shape `JY1/gt/m/it' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 6.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 6.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.0pt on input line 6.
+付録B
 ) [15] [16
 
-])
+] (./parts/backmatter.tex (./thesis.bbl [17
+
+] [18
+
+]
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [19] [20
+
+]
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \begin{業績}
+                 
+? 
+)
 \tf@thm=\write7
 \openout7 = `thesis.thm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
-
-[17]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
+ [21]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
  (./thesis.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 37.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 37.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 37.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 41.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 41.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
  ) 
 Here is how much of TeX's memory you used:
- 7949 strings out of 493723
- 112688 string characters out of 6152570
- 197033 words of memory out of 5000000
- 11346 multiletter control sequences out of 15000+600000
- 51818 words of font info for 92 fonts, out of 8000000 for 9000
+ 7921 strings out of 493723
+ 112315 string characters out of 6152570
+ 196621 words of memory out of 5000000
+ 11312 multiletter control sequences out of 15000+600000
+ 45063 words of font info for 90 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 30i,10n,34p,971b,370s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,9n,34p,971b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.dvi (25 pages, 32736 bytes).
+Output written on thesis.dvi (29 pages, 35136 bytes).
