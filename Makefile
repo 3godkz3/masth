@@ -3,9 +3,9 @@ filename:=thesis
 .PHONY: all clean
 
 all:
-	platex -shell-escape $(filename).tex
-	pbibtex $(filename).aux
-	platex $(filename).tex
+	# platex -shell-escape $(filename).tex
+	# pbibtex $(filename).aux
+	# platex $(filename).tex
 	platex $(filename).tex
 	dvipdfmx $(filename).dvi
 
